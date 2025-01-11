@@ -1,9 +1,12 @@
 # print("**Fernando Willes** 👩🏻‍💻")
-
+<br />
+<br />
 
 **`Junior Data Scientist`**
 
 Professional in development in the field of Data Science and Python programming, with a passion for technology and continuous learning. Dedication, focus, and commitment define my journey, always aimed at growth and acquiring new skills to contribute to innovative solutions and add value to organizations.
+<br />
+<br />
 
 <p align="left">
     <a href="https://github.com/Fwilles?tab=repositories&sort=stargazers">
@@ -27,6 +30,7 @@ Professional in development in the field of Data Science and Python programming,
 
 
 ### 🤖 Languages ​​and Technologies
+<br />
 
 <img 
     align="left" 
@@ -123,21 +127,14 @@ Professional in development in the field of Data Science and Python programming,
 ---
 
 ### 📊 Statistics
+<br />
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 8px;" 
+    style="padding-right: 30px;" 
     src="https://github-readme-stats.vercel.app/api?username=Fwilles&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fwilles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
